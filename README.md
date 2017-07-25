@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="http://www.contel.hr/2015/wp-content/uploads/2015/07/unifer2.png" height=100 width=180> <img src="https://avatars2.githubusercontent.com/u/15658638?v=4&s=400" height=100 width="100">  <img src="https://jdrch.files.wordpress.com/2013/04/python_logo_and_wordmark-svg.png" height=100 width="338">
+  <img src="http://www.contel.hr/2015/wp-content/uploads/2015/07/unifer2.png" height=100 width=180 url="http://www.fer.unizg.hr"> <img src="https://avatars2.githubusercontent.com/u/15658638?v=4&s=400" height=100 width="100">  <img src="https://jdrch.files.wordpress.com/2013/04/python_logo_and_wordmark-svg.png" height=100 width="338">
 </p>
 
 # DeepLearning
