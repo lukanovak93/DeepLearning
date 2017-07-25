@@ -1,7 +1,7 @@
+<img src="https://avatars2.githubusercontent.com/u/15658638?v=4&s=400" height=70 width="70"> <img src="https://jdrch.files.wordpress.com/2013/04/python_logo_and_wordmark-svg.png" height=70 width="70">                 
+
 # DeepLearning
 ## Deep Learning course at FER, UNIZG
-
-<img src="https://avatars2.githubusercontent.com/u/15658638?v=4&s=400" height=48 width="48"> <img src="http://programmereninhetpovo.nl/wp-content/uploads/2015/06/python-150x150.png" height=48 width="48">
 
 The assignments from the Deep Learning course at FER, University of Zagreb, 2015/16.
 
