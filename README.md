@@ -4,7 +4,7 @@
 </p>
 
 # DeepLearning
-## Deep Learning course at FER, UNIZG <img src="http://www.contel.hr/2015/wp-content/uploads/2015/07/unifer2.png" height=100 width=180>
+## Deep Learning course at FER, UNIZG <img src="http://www.contel.hr/2015/wp-content/uploads/2015/07/unifer2.png" height=50 width=80>
 
 The assignments from the Deep Learning course at FER, University of Zagreb, 2015/16.
 
