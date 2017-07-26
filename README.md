@@ -6,6 +6,7 @@
 ----
 
 # DeepLearning
+--------------
 ## Deep Learning course at FER, UNIZG 
 
 The assignments from the Deep Learning course at FER, University of Zagreb, 2015/16.
